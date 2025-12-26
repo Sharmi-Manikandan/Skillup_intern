@@ -1,8 +1,9 @@
-pip>=25.0
 streamlit
 pandas
 numpy
 matplotlib
 seaborn
+
+
 
 
